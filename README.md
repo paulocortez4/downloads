@@ -78,9 +78,13 @@ http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 Regression and classification, measure input importance (eXplainable Artificial Intelligence - XAI):
 
+https://drive.google.com/file/d/1kScM0iQf0vLxyH0pMYFpkwI7LW-6uGkZ/view?usp=sharing
+
 ### Internet Traffic Time Series Datasets
 
 Time series forecasting, donated in 2012:
+
+https://drive.google.com/file/d/1YLSvyqddGNVeYEvdJqbe-H2ViCniuskf/view?usp=sharing
 
 Also available at tsdl R package - index 643 to 648:
 
