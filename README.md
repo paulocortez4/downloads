@@ -20,6 +20,14 @@ https://pypi.org/project/autooc/
 
 Bibliographic reference: https://doi.org/10.1016/j.asoc.2023.110496
 
+### Benchmark of AutoML tools
+
+IJCNN 2021 comparison paper results, data & code:
+
+https://bit.ly/302DRd5
+
+Bibliographic reference: https://ieeexplore.ieee.org/document/9534091
+
 ### evoltree Python module
 
 Multi-objective Optimization (MO) approach to evolve Decision Trees (DT) using Grammatical Evolution (GE):
