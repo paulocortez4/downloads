@@ -1,5 +1,5 @@
 # downloads
-Paulo Cortez downloads: Machine Learning (ML) and Artificial Intelligence (AI) datasets and code.
+Paulo Cortez downloads: Machine Learning (ML) and Artificial Intelligence (AI) code and datasets.
 I am Full Professor at University of Minho, Portugal, see: https://www.dsi.uminho.pt/people/pcortez
 
 ## CODE:
