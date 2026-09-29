@@ -1,8 +1,41 @@
 # downloads
 Paulo Cortez downloads: Machine Learning (ML) and Artificial Intelligence (AI) datasets and code.
-I am Full Professor at University of Minho, Portugal.
+I am Full Professor at University of Minho, Portugal, see: https://www.dsi.uminho.pt/people/pcortez
 
 ## CODE:
+
+### SPAV Python module
+
+SPAV offers functions for creating four types of visualizations support operators in understanding and validating screw process anomaly detection:
+
+https://github.com/SoftwareImpacts/SIMPAC-2025-217
+
+Bibliographic reference: https://doi.org/10.1016/j.simpa.2025.100786
+
+### autoc Python module
+
+Automated Machine Learning (AutoML) library focused on One-Class Learning algorithms (Deep AutoEncoders, Variational AutoEncoders, Isolation Forest, Local Outlier Factor and One-Class SVM):
+
+https://pypi.org/project/autooc/
+
+Bibliographic reference: https://doi.org/10.1016/j.asoc.2023.110496
+
+### evoltree Python module
+
+Multi-objective Optimization (MO) approach to evolve Decision Trees (DT) using Grammatical Evolution (GE):
+
+https://pypi.org/project/evoltree
+
+Bibliographic reference: https://doi.org/10.1016/j.eswa.2020.114287
+
+### CANE Python module
+
+A python module for categorical to numeric data preprocessing:
+
+https://pypi.org/project/cane/
+
+Bibliographic reference: https://doi.org/10.1016/j.simpa.2022.100359
+
 ### rminer R package
 
 A open-source library that facilitates the use of Machine Learning methods in R:
