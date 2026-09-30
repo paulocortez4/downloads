@@ -139,6 +139,9 @@ Regression and classification, measure input importance (eXplainable Artificial 
 
 https://drive.google.com/file/d/1kScM0iQf0vLxyH0pMYFpkwI7LW-6uGkZ/view?usp=sharing
 
+The regression datasets are: ssin.csv, psin.csv, int2.csv, tree.csv and fri1.csv.
+The classification datasets are: ssin-2.csv, ssin-2c, ssin-2p, ssin-n2p.csv, int2-3c.csv and int2-8p.csv.
+
 Bibliographic reference: http://dx.doi.org/10.1016/j.ins.2012.10.039
 
 ### Internet Traffic Time Series Datasets
