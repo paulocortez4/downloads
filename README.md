@@ -1,5 +1,6 @@
 # downloads
-Paulo Cortez downloads: Machine Learning (ML) and Artificial Intelligence (AI) code and datasets.
+Paulo Cortez downloads: Machine Learning (ML), Evolutionary Computation (EC) and Artificial Intelligence (AI) code and datasets.
+
 I am Full Professor at University of Minho, Portugal, see: https://www.dsi.uminho.pt/people/pcortez
 
 ## CODE:
@@ -69,6 +70,15 @@ Springer book R code (and solutions):
 https://extras.springer.com/?query=978-3-030-72818-2
 
 ## Datasets:
+
+### SUMoTR — Sustainable Urban Multimodal Transport Routing
+
+Open research repository providing datasets, multimodal graph representations, and solution outputs for sustainable urban transport routing problems (multi-objective optimization task).
+60 problem instances for 2 Portuguese cities: Oporto and Lisbon.
+
+https://github.com/guilhermebarbosa002/SUMoTR
+
+Bibliographic reference: https://doi.org/10.1016/j.swevo.2026.102512
 
 ### Automotive Display Anomaly  
 Anomaly detection in tabular industrial process data regarding the assembly of car displays, binary classification (preprocessed data with 46 inputs x 64889 rows), available since 2025:
