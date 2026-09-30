@@ -71,7 +71,7 @@ https://extras.springer.com/?query=978-3-030-72818-2
 ## Datasets:
 
 ### Automotive Display Anomaly  
-Anomaly detection in industrial process data, binary classification, available since 2025:
+Anomaly detection in tabular industrial process data regarding the assembly of car displays, binary classification (preprocessed data with 46 inputs x 64889 rows), available since 2025:
 
 https://doi.org/10.1016/j.dajour.2025.100637
 
@@ -149,6 +149,9 @@ Bibliographic reference: http://dx.doi.org/10.1016/j.ins.2012.10.039
 Time series forecasting, donated in 2012:
 
 https://drive.google.com/file/d/1YLSvyqddGNVeYEvdJqbe-H2ViCniuskf/view?usp=sharing
+
+Two different ISP connection links (A and B) with aggregated Internet traffic
+using a time period of: 5 minutes (A5M.csv and B5M.csv), 1 hour (A1H.csv and B1H.csv) and 1 day (A1D.csv and B1D.csv).
 
 Bibliographic reference: http://dx.doi.org/10.1111/j.1468-0394.2010.00568.x
 
