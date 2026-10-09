@@ -73,8 +73,7 @@ https://extras.springer.com/?query=978-3-030-72818-2
 
 ## Datasets:
 
-[MLG](#mlg),[SUMoTR](#sumotr), [Automotive Display Anomaly](#automotive-display-anomaly), [Cross-source cross-domain sentiment analysis](#cross-source-cross-domain-sentiment-analysis), [Twitter-country-geolocation](#twitter-country-geolocation), [CS Abstracts](#cs-abstracts) 
-
+[MLG](#mlg),[SUMoTR](#sumotr), [Automotive Display Anomaly](#automotive-display-anomaly), [Cross-source cross-domain sentiment analysis](#cross-source-cross-domain-sentiment-analysis), [Twitter-country-geolocation](#twitter-country-geolocation), [CS Abstracts](#cs-abstracts), [Online News Popularity](#online-news-popularity), [Stock Market Lexicon](#stock-market-lexicon), [Student Performance](#student-performance), [Bank Marketing](#bank-marketing), [Input importance synthetic datasets ](#input-importance-synthetic-datasets), [Internet Traffic Time Series datasets](#internet-traffic-time-series), [Wine Quality](#wine-quality), [Bank Marketing](#bank-marketing), [Forest Fires](#forest-fires)
 ### MLG 
 
 **Machine Learning Goal (MLG):** 
@@ -169,9 +168,9 @@ The classification datasets are: ssin-2.csv, ssin-2c, ssin-2p, ssin-n2p.csv, int
 
 Bibliographic reference: http://dx.doi.org/10.1016/j.ins.2012.10.039
 
-### Internet Traffic Time Series Datasets
+### Internet Traffic Time Series
 
-Time series forecasting, donated in 2012:
+Six time series forecasting datasets, donated in 2012:
 
 https://drive.google.com/file/d/1YLSvyqddGNVeYEvdJqbe-H2ViCniuskf/view?usp=sharing
 
