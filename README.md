@@ -5,7 +5,7 @@ I am Full Professor at University of Minho, Portugal, see: https://www.dsi.uminh
 
 ## Code:
 
-[SPAV](#SPAV-python-module), [Autoc](#autoc-python-module), [Benchmark of AutoML tools](#benchmark-of-AutoML-tools), [evoltree](#evoltree-python-module), [CANE](#cane-python-module), [rminer](#rminer-r-package), ["Modern Optimization with R" book"](#"modern-optimization-with-R"-springer-2021-book)
+[SPAV](#SPAV-python-module), [Autoc](#autoc-python-module), [Benchmark of AutoML tools](#benchmark-of-AutoML-tools), [evoltree](#evoltree-python-module), [CANE](#cane-python-module), [rminer](#rminer-r-package), [Modern Optimization with R](#modern-optimization-with-r-springer-2021-book)
 
 ### SPAV Python module
 
@@ -61,7 +61,7 @@ The rminer tutorial pdf: http://hdl.handle.net/1822/36210
 
 The rminer tutorial code: https://drive.google.com/file/d/1lpi5BQpDDQ8c9yiP4WRZ_bzFXY6p-MzT/view?usp=sharing
 
-### "Modern Optimization with R" Springer 2021 book
+### Modern Optimization with R Springer 2021 book
 
 Bibliographic reference (Springer book link):
 
