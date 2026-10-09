@@ -71,6 +71,14 @@ https://extras.springer.com/?query=978-3-030-72818-2
 
 ## Datasets:
 
+### Machine Learning Goal (MLG) 
+
+Two datasets (MLG1 and MLG2) that of "meta-datasets" that map business needs and ML datasets with the corresponding ML task (e.g., binary classification, regression, clustering, association, time series forecasting).
+
+https://github.com/carlosgoncalves30/MLG
+
+Bibliographic reference: https://doi.org/10.1145/3748522.3779804
+
 ### SUMoTR — Sustainable Urban Multimodal Transport Routing
 
 Open research repository providing datasets, multimodal graph representations, and solution outputs for sustainable urban transport routing problems (multi-objective optimization task).
