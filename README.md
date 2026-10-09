@@ -87,7 +87,7 @@ Bibliographic reference: https://doi.org/10.1145/3748522.3779804
 
 **Sustainable Urban Multimodal Transport Routing (SUMoTR):**
 Open research repository providing datasets, multimodal graph representations, and solution outputs for sustainable urban transport routing problems (multi-objective optimization task).
-60 problem instances for 2 Portuguese cities: Oporto and Lisbon.
+Total of 60 problem instances (20 easy, 20 medium and 20 hard) for 2 Portuguese cities: Oporto and Lisbon.
 
 https://github.com/guilhermebarbosa002/SUMoTR
 
