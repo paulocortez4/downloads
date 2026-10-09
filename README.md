@@ -73,6 +73,8 @@ https://extras.springer.com/?query=978-3-030-72818-2
 
 ## Datasets:
 
+[MLG](#machine-learning-goal--mlg-),[SUMoTR](#SUMoTR-—-sustainable-urban-multimodal-transport- routing)
+
 ### Machine Learning Goal (MLG) 
 
 Two datasets (MLG1 - 123 examples and MLG2 - 50 examples) of "meta-datasets" that map business needs and ML datasets (one example) with the corresponding ML task (e.g., binary classification, regression, clustering, association, time series forecasting).
