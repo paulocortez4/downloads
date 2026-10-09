@@ -5,6 +5,8 @@ I am Full Professor at University of Minho, Portugal, see: https://www.dsi.uminh
 
 ## Code:
 
+[SPAV](#SPAV), [Autoc](#autoc).
+
 ### SPAV Python module
 
 SPAV offers functions for creating four types of visualizations support operators in understanding and validating screw process anomaly detection:
