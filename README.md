@@ -73,7 +73,7 @@ https://extras.springer.com/?query=978-3-030-72818-2
 
 ### Machine Learning Goal (MLG) 
 
-Two datasets (MLG1 and MLG2) that of "meta-datasets" that map business needs and ML datasets with the corresponding ML task (e.g., binary classification, regression, clustering, association, time series forecasting).
+Two datasets (MLG1 - 123 examples and MLG2 - 50 examples) of "meta-datasets" that map business needs and ML datasets (one example) with the corresponding ML task (e.g., binary classification, regression, clustering, association, time series forecasting).
 
 https://github.com/carlosgoncalves30/MLG
 
