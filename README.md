@@ -5,7 +5,7 @@ I am Full Professor at University of Minho, Portugal, see: https://www.dsi.uminh
 
 ## Code:
 
-[SPAV](#SPAV-python-module), [Autoc](#autoc-python-module).
+[SPAV](#SPAV-python-module), [Autoc](#autoc-python-module), [AutoML Benchmark](#benchmark-of-AutoML-tools), 
 
 ### SPAV Python module
 
