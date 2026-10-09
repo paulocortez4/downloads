@@ -1,9 +1,9 @@
 # Downloads
-Paulo Cortez downloads: Machine Learning (ML), Evolutionary Computation (EC) and Artificial Intelligence (AI) code and datasets.
+Paulo Cortez downloads: Machine Learning (ML), Evolutionary Computation (EC) and Artificial Intelligence (AI) [Code](#code) and [Datasets](#datasets).
 
 I am Full Professor at University of Minho, Portugal, see: https://www.dsi.uminho.pt/people/pcortez
 
-## CODE:
+## Code:
 
 ### SPAV Python module
 
