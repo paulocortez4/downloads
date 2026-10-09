@@ -5,7 +5,7 @@ I am Full Professor at University of Minho, Portugal, see: https://www.dsi.uminh
 
 ## Code:
 
-[SPAV](#SPAV-python-module), [Autoc](#autoc-python-module), [AutoML Benchmark](#benchmark-of-AutoML-tools), 
+[SPAV](#SPAV-python-module), [Autoc](#autoc-python-module), [Benchmark of AutoML tools](#benchmark-of-AutoML-tools), [evoltree](#evoltree-python-module), [CANE](#cane-python-module), [rminer](#rminer-r-package), ["Modern Optimization with R" book"](#"modern-optimization-with-R"-springer-2021-book)
 
 ### SPAV Python module
 
