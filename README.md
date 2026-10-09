@@ -73,18 +73,20 @@ https://extras.springer.com/?query=978-3-030-72818-2
 
 ## Datasets:
 
-[MLG](#machine-learning-goal--mlg-),[SUMoTR](#SUMoTR-—-sustainable-urban-multimodal-transport- routing)
+[MLG](#mlg),[SUMoTR](#sumotr),[Automotive Display Anomaly](#automotive-display-anomaly), [Cross-source cross-domain sentiment analysis](#cross-source-cross-domain-sentiment-analysis) 
 
-### Machine Learning Goal (MLG) 
+### MLG 
 
+**Machine Learning Goal (MLG):** 
 Two datasets (MLG1 - 123 examples and MLG2 - 50 examples) of "meta-datasets" that map business needs and ML datasets (one example) with the corresponding ML task (e.g., binary classification, regression, clustering, association, time series forecasting).
 
 https://github.com/carlosgoncalves30/MLG
 
 Bibliographic reference: https://doi.org/10.1145/3748522.3779804
 
-### SUMoTR — Sustainable Urban Multimodal Transport Routing
+### SUMoTR 
 
+**Sustainable Urban Multimodal Transport Routing (SUMoTR):**
 Open research repository providing datasets, multimodal graph representations, and solution outputs for sustainable urban transport routing problems (multi-objective optimization task).
 60 problem instances for 2 Portuguese cities: Oporto and Lisbon.
 
