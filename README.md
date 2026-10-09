@@ -73,7 +73,7 @@ https://extras.springer.com/?query=978-3-030-72818-2
 
 ## Datasets:
 
-[MLG](#mlg),[SUMoTR](#sumotr),[Automotive Display Anomaly](#automotive-display-anomaly), [Cross-source cross-domain sentiment analysis](#cross-source-cross-domain-sentiment-analysis) 
+[MLG](#mlg),[SUMoTR](#sumotr), [Automotive Display Anomaly](#automotive-display-anomaly), [Cross-source cross-domain sentiment analysis](#cross-source-cross-domain-sentiment-analysis), [Twitter-country-geolocation](#twitter-country-geolocation), [CS Abstracts](#cs-abstracts) 
 
 ### MLG 
 
@@ -117,8 +117,9 @@ https://github.com/paolazola/Twitter-country-geolocation
 
 Bibliographic reference: https://doi.org/10.1016/j.dss.2019.03.006
 
-### CS Abstracts Dataset 
+### CS Abstracts 
 
+** Computer Science (CS) Abstracts:
 Sequential text classification, available at GitHub since 2018:
 
 https://github.com/sergiog95/csabstracts
